@@ -12,7 +12,6 @@ Features
 Installation
 1)Install Java 17:Ensure you have Java 17 or a later version installed on your machine.
 2)Install Maven (for building the project):
-If you don’t have Maven installed, you can install it from Maven's official website.
 Follow the installation instructions specific to your operating system.
 Steps to Install
 1)Clone this repository:
